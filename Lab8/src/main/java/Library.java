@@ -6,6 +6,8 @@ public class Library {
     	System.out.println("When there is fire, commit and Push.");
     	System.out.println("When there is fire, this is Yankees.");
     	
+    	System.out.println("When there is fire, commit and Push.");
+        System.out.println("This is REDSOX");
     }
     
     public boolean someLibraryMethod() {
