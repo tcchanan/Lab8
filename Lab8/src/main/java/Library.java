@@ -4,6 +4,7 @@
 public class Library {
     public static void main(String arg[]) {
     	System.out.println("When there is fire, commit and Push.");
+    	System.out.println("When there is fire, commit and Push.");
     }
     
     public boolean someLibraryMethod() {
